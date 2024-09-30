@@ -1,26 +1,9 @@
-# Automated-cognitive-presence-detection-in-the-open-community-using-large-language-models
-
-Goals: run the LLMs to classify messages according to cognitive presence categories and embed this function into the educational agent.
-
-The motivation for this study stems from the need to improve the efficiency and accuracy of analyzing online learning environments. As highlighted by Hu et al. (2023) in their work on multi-label classifiers and cognitive presence in MOOCs, automated methods can significantly enhance our understanding and management of educational discussions.
-
-Outcomes: Complete the experiment, a paper, and a prototype of the educational agent.
-
-Desired Team Member Skills:
-1. Proficiency in programming languages such as Python.
-2. Skills in data preprocessing, feature extraction, and dataset management.
-3. It would be better if you have the following experience： 
-Experience in text classification and content analysis.
-Experience with large language models (LLMs) such as GPT, BERT, etc.
-Knowledge of supervised and unsupervised learning techniques.
-Experience in model training, evaluation, and hyperparameter tuning.
-
-What we already did: We got 16879 annotated sentences in total.  
-
-If you join us, what you need do:
-
-1. Discuss and label inconsistent data. You can download the labeling guidelines.
-2. Run the LLMs to classify messages.
-3. Write and publish the paper with us!
-
-If you are interested in us, please don't hesitate to join us now!
+# Automated cognitive presence detection in open community via large language models
+**References**
+Ba, S., Hu, X., Stein, D., & Liu, Q. (2023). Assessing cognitive presence in online inquiry‐based discussion through text classification and epistemic network analysis. British Journal of Educational Technology, 54(1), 247-266. Barany, A., Nasiar, N., Porter, C., Zambrano, A. F., Andres, A. L., Bright, D., ... Baker, R. S. (2024). ChatGPT for education research: Exploring the potential of large language models for qualitative codebook development. In International Conference on Artificial Intelligence in Education (pp. 134-149). Cham: Springer Nature Switzerland.
+David Williamson Shaffer and A. R. Ruis. 2021. How We Code. In Advances in Quantitative Ethnography, Andrew R. Ruis and Seung B. Lee (Eds.). Springer International Publishing, 62–77.
+D. R. Garrison, M. Cleveland-Innes, Marguerite Koole, and James Kappelman. 2006. Revisiting methodological issues in transcript analysis: Negotiated coding and reliability. The Internet and Higher Education 9, 1 (2006), 1–8. https://doi.org/10.1016/j.iheduc.2005.11.001
+Garrison, D. R., Anderson, T., & Archer, W. (1999). Critical inquiry in a text-based environment: Computer conferencing in higher education. The internet and higher education, 2(2-3), 87-105.
+Hu, Y., Donald, C., & Giacaman, N. (2023). Can multi-label classifiers help identify subjectivity? A deep learning approach to classifying cognitive presence in 
+MOOCs. International Journal of Artificial Intelligence in Education, 33(4), 781-816.OpenAI. 2023. 
+GPT-4 Technical Report. arXiv:2303.08774 [cs.CL]
